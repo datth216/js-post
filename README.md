@@ -1,2 +1,2 @@
 # Post UI
-- CRUD Posts
+- CRUD Post using Javascript
