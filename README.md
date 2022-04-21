@@ -1,2 +1,2 @@
 # Post UI
-- CRUD, Find Post using Javascript
+- CRUD, Search Post using Javascript
